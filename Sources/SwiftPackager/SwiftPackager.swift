@@ -6,6 +6,6 @@ public struct SwiftPackager {
     
     public func testMethod() -> String {
         
-        return "Hello Swift Package Manager --->"
+        return "Hello Swift Package Manager 2.0.0 --->"
     }
 }
