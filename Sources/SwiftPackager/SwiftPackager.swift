@@ -3,4 +3,9 @@ public struct SwiftPackager {
 
     public init() {
     }
+    
+    public func testMethod() -> String {
+        
+        return "Hello Swift Package Manager --->"
+    }
 }
